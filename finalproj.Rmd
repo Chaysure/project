@@ -30,7 +30,7 @@ Instructions:
 ## How to use the application
 Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
 
-The application is running on (http://127.0.0.1:7545)
+The application is running on (https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/)
 
 ui.R, and Server.R Code in my github repository (https://github.com/Chaysure/project)
 
